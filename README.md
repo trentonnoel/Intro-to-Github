@@ -1,4 +1,4 @@
-# Intro-to-Github
+#### Intro-to-Github
 ## Trenton Noel
 
 # Introduction
